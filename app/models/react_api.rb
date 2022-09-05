@@ -1,0 +1,2 @@
+class ReactApi < ApplicationRecord
+end
